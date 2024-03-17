@@ -1,4 +1,4 @@
-public class Leapfrog {
+public class Leapfrog_E400C8A7F9 {
     private String cmake;
     private String leapfrogOfficial;
     private static String leapfrog;
